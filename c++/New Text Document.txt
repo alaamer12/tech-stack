@@ -1,0 +1,16 @@
+Certainly! Here are some common tools used with C++ for various purposes:
+
+Package Manager: Conan, vcpkg
+Linting: Clang Static Analyzer, cppcheck
+Formatting: ClangFormat, Uncrustify
+Unit Testing: Google Test, Catch, Boost.Test
+Code Coverage: gcov, lcov, OpenCppCoverage
+Integration Testing: Google Test, Catch
+Functional Testing: Google Test, Catch
+End-to-End (E2E) Testing: Selenium, CppRobot
+Version Control: Git, SVN
+Build System: CMake, Make, Bazel
+Image Creation Automation: Docker, Podman
+Micro-generator Framework: CMake scripts for generation
+Version Automating Tools: Semantic Versioning (SemVer)
+Keep in mind that the usage of these tools can depend on specific project requirements and team preferences.
